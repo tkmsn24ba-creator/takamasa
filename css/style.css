@@ -76,7 +76,7 @@ img{
     text-align:center
 }
 .hero.index{
-    padding: 287px 0;
+    padding: 100px 0;
     background-image: 
     url(../images/home-hero.jpg);
 }
@@ -125,7 +125,7 @@ main h2{
 }
 .shop-info th,.shop-info td{
     border: 1px solid #DBDBDB;
-    padding: 20px;
+    padding: 60px;
 }
 
 .shop-info th{
@@ -136,11 +136,7 @@ main h2{
 
 .items{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
-.items{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 20px;
 }
 /*contact.html*/
