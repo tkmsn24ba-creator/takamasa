@@ -1,17 +1,21 @@
 /* すべてのページに適用される設定 */
 html{
-    font-size: 16px;
+    font-size: 20px;
      font-family:sans-serif;
 }
 *{
     box-sizing: border-box;
 }
 body{
-    margin:0000;
+    margin:0;
 }
 p,li,td{
-  line-height: 1.7;
+  line-height: 2.5;
 }
+main h2{
+    font-size: 2rem;
+}
+
 a:link{
     color: #131970;
     text-decoration: none;
