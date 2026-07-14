@@ -78,16 +78,17 @@ img{
 .hero.index{
     padding: 100px 0;
     background-image: 
-    url(../images/home-hero.jpg);
+    url(../images/kokokoara.jpg);
 }
 .hero.access{
-    background-image: url(../images/access-hero.jpg);
+    background-image: url(../images/sora-access.jpg);
+    
 }
 .hero.menu{
-    background-image: url(../images/menu-hero.jpg);
+    background-image: url(../images/umi-menu.jpg);
 }
 .hero.contact{
-    background-image: url(../images/contact-hero.jpg);
+    background-image: url(../images/earth-contact.jpg);
 }
 
 /* すべてのページに適用ーメインー */
